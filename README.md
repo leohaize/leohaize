@@ -65,6 +65,5 @@ develop my programming and Artificial Intelligence skills.
 
 ## 🔹 Connect With Me
 
-🔷 LinkedIn: [Leonardo Vieira](SEU_LINKEDIN_AQUI)
-
-🔷 Email: SEU_EMAIL_AQUI
+🔷 LinkedIn: https://www.linkedin.com/in/leonardo-vieira-haize/
+🔷 Email: lvieiralinsdasilva@gmail.com
