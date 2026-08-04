@@ -1,9 +1,70 @@
-## 👨🏻‍💻 Leo Haize
+# 🔹 Hi, I'm Leonardo
 
-🔹 Hii my name is Leonardo, but you can call me Leo ;)
-🔹   I’m 19 years old and I’m from Santa Catarina, Brazil. 
-🔹   I’m currently studying Artificial Intelligence at FURB in Blumenau, focusing on software development with Python.
+### 🔹 Artificial Intelligence Student | Technology & Software Development
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="130" width="4040" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+🔹 I'm an Artificial Intelligence student at FURB, based in Blumenau,
+Santa Catarina, Brazil.
+
+🔹 I'm currently building my foundation in Python, programming and
+Artificial Intelligence through academic studies and personal projects.
+
+---
+
+## 🔹 About Me
+
+I'm at the beginning of my professional journey in technology,
+focused on turning what I learn into practical projects.
+
+🔹 Python & Programming  
+🔹 Artificial Intelligence  
+🔹 Machine Learning  
+🔹 Software Development  
+🔹 Problem Solving  
+
+I'm currently looking for an opportunity to enter the technology
+industry, learn from experienced professionals and contribute to
+real-world projects while continuing to develop my skills.
+
+---
+
+## 🔹 Technologies & Tools
+
+### 🔹 Currently Learning
+
+🐍 Python  
+🤖 Artificial Intelligence  
+🧠 Machine Learning  
+🔧 Git  
+🔷 GitHub  
+
+### 🔹 Tools
+
+💻 Visual Studio Code  
+🎨 Figma  
+
+---
+
+## 🔹 Projects
+
+🔹 I'm currently building and documenting personal projects as I
+develop my programming and Artificial Intelligence skills.
+
+🔹 More projects will be added as they are completed.
+
+---
+
+## 🔹 Goals
+
+🔹 Build a strong foundation in programming  
+🔹 Develop practical projects  
+🔹 Improve my knowledge of Artificial Intelligence  
+🔹 Contribute to real-world technology projects  
+🔹 Start my professional career in technology  
+
+---
+
+## 🔹 Connect With Me
+
+🔷 LinkedIn: [Leonardo Vieira](SEU_LINKEDIN_AQUI)
+
+🔷 Email: SEU_EMAIL_AQUI
